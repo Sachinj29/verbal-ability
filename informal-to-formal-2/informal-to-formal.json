@@ -241,6 +241,17 @@
       ],
       "correct": 2
     },
+    {
+      "question": "You nailed it!",
+      "options": [
+        "You killed it!",
+        "Great job, dude!",
+        "You executed it perfectly. ",
+        "You smashed it!"
+      ],
+      "correct": 2
+    }
+    
     
   ]
   }
