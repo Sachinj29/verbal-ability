@@ -1,1 +1,246 @@
 
+{
+  "questions": [
+    {
+      "question": "I was like, “No way I’m doing that,” so I just ditched the whole thing.",
+      "options": [
+        "I refused and decided to abandon the entire matter.",
+        "I said no and left it.",
+        "I was like nope, not doing it.",
+        "I didn't feel like doing it, so I bounced."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "He’s been goofing off at work lately and not getting stuff done.",
+      "options": [
+        "He has been neglecting his duties at work and failing to complete his tasks.",
+        "He’s been chilling and skipping work.",
+        "He’s been super lazy.",
+        "He’s not in the mood to work these days."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "I’m kinda bummed out because the trip I planned for weeks got totally ruined.",
+      "options": [
+        "I am disappointed because the trip I had meticulously planned was completely ruined.",
+        "I’m upset 'cause my trip got wrecked.",
+        "My trip got messed up, and I feel bad.",
+        "I’m sad about the messed-up trip."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "She just showed up outta nowhere and started yelling at everyone.",
+      "options": [
+        "She came and screamed out of the blue.",
+        "She arrived unexpectedly and began to raise her voice at everyone.",
+        "She barged in and started shouting.",
+        "She popped in and lost it."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "We totally freaked out when we saw how high the bill was.",
+      "options": [
+        "We were like OMG, that’s huge.",
+        "We got scared by the bill.",
+        "We were extremely shocked upon seeing the high amount of the bill. ",
+        "The bill was crazy high, and we panicked."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "He didn’t give a damn about what we said and just did his own thing.",
+      "options": [
+        "He didn’t care and did whatever.",
+        "He disregarded our opinions and acted independently.",
+        "He was like whatever and ignored us. ",
+        "He acted like he didn’t hear us."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "I’ve been super swamped with work and haven’t had a second to breathe.",
+      "options": [
+        "I’m drowning in tasks.",
+        "Work’s been crazy, can’t breathe.",
+        "I have been extremely busy with work and have had no time to rest. ",
+        "I’m mad busy and can’t even chill."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "It’s not like I’m trying to be rude or anything, but you kinda talk too much sometimes.",
+      "options": [
+        "I’m not trying to be mean, but you never stop talking.",
+        "You talk too much, just saying.",
+        "I do not intend to be impolite, but at times you tend to speak excessively. ",
+        "Not to be rude, but you talk a lot."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "We thought the movie would be dope, but it totally sucked.",
+      "options": [
+        "We thought it’d be cool, but it was trash.",
+        "We had high expectations for the movie, but it was extremely disappointing. ",
+        "It looked lit, but it was boring",
+        "The movie was supposed to be fun, but nah."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "I’m gonna hit the sack early tonight.",
+      "options": [
+        "I’ll crash soon.",
+        "I plan to sleep early tonight.",
+        "I’m off to bed, peace.",
+        " I’ll doze off quickly"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "He’s a really chill boss who lets us do our own thing.",
+      "options": [
+        "He’s a laid-back boss.",
+        "He doesn’t care much what we do.",
+        "He is a very relaxed manager who allows us to work independently. ",
+        "He just lets us vibe at work."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Sorry I bailed on the meeting yesterday.",
+      "options": [
+        "Sorry I didn’t show up.",
+        "My bad for not coming.",
+        "I apologize for missing the meeting yesterday. ",
+        "I skipped it, sorry."
+      ],
+      "correct": 2
+    },
+    {
+      "question": " I don’t feel like doing this boring stuff right now.",
+      "options": [
+        "I don’t wanna do this lame stuff.",
+        "I am currently not in the mood to perform this uninteresting task. ",
+        "I’m not down for this.",
+        "This stuff’s annoying me.."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "That idea is kinda lame, don’t you think?",
+      "options": [
+        "Don’t you believe the idea lacks merit? ",
+        "That’s a weak idea, right?",
+        "That idea’s bad, you feel me?",
+        "Not a great idea, huh"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "She’s been acting super weird lately.",
+      "options": [
+        "Her recent behavior has been rather unusual. ",
+        "She’s acting kinda crazy these days.",
+        "She’s been odd lately.",
+        "She’s acting sus."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "The presentation was a total flop.",
+      "options": [
+        "The presentation was completely unsuccessful.",
+        "That talk was bad.",
+        "It bombed.",
+        "It didn’t work out."
+      ],
+      "correct": 0
+    },
+     {
+      "question": "I’m not into that kind of music.",
+      "options": [
+        "I do not have a preference for that genre of music.",
+        "I don’t vibe with it.",
+        "That music’s not my thing.",
+        "I’m not a fan."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "That party was off the hook!",
+      "options": [
+        "That was lit.",
+        "The party was extremely lively and enjoyable.",
+        "It was wild.",
+        "Best party ever!"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "He screwed up the whole project.",
+      "options": [
+        " He ruined everything.",
+        "He messed it all up.",
+        "He made a serious mistake in the project. ",
+        "He totally failed."
+      ],
+      "correct": 2
+    },
+    {
+      "question": " I’m sick and tired of this drama.",
+      "options": [
+        "I am extremely frustrated with this situation.",
+        "I’m done with all this nonsense.",
+        "I can’t deal with this anymore.",
+        " I hate all this drama."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "That’s none of your business.",
+      "options": [
+        "Stay out of it.",
+        "That’s private.",
+        "Don’t poke your nose in.",
+        "I believe that matter does not concern you."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "This plan is a no-brainer.",
+      "options": [
+        "This is easy peasy.",
+        "You don’t even have to think about it.",
+        "This plan is extremely straightforward.",
+        "Anyone can do this."
+      ],
+      "correct": 2
+    },
+     {
+      "question": "He’s totally clueless.",
+      "options": [
+        "He doesn’t get it at all.",
+        "He appears to be completely unaware.",
+        "He’s got no idea.",
+        "He’s dumb."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "You nailed it!",
+      "options": [
+        "You killed it!",
+        "Great job, dude!",
+        "You executed it perfectly. ",
+        "You smashed it!"
+      ],
+      "correct": 2
+    },
+    
+  ]
+  }
