@@ -1,1 +1,254 @@
-
+{
+  "questions": [
+    {
+      "question": "She ___ to school every day.",
+      "options": [
+        "go",
+        "going",
+        "goes ",
+        "gone"
+      ],
+      "correct": 2
+    },
+     {
+      "question": "I ___ dinner when she arrived.",
+      "options": [
+        "had",
+        "am having",
+        "was having  ",
+        "have had"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "They ___ in Mumbai since 2015.",
+      "options": [
+        "lived",
+        "have been living",
+        "lives",
+        "are living"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "He ___ already left when I got there.",
+      "options": [
+        "has",
+        "have",
+        "had",
+        "was"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "By next year, she ___ her degree.",
+      "options": [
+        "completes",
+        "completed",
+        "will complete",
+        "will have completed"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "The sun ___ in the east.",
+      "options": [
+        "rise",
+        "rises",
+        "is rising",
+        "has risen"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "I ___ him yesterday at the mall.",
+      "options": [
+        "saw",
+        "see",
+        "have seen",
+        "had seen"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "While we ___ TV, the lights went out.",
+      "options": [
+        "watch",
+        "were watching",
+        "watched",
+        "had watched"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "She usually ___ tea in the evening.",
+      "options": [
+        "drinking",
+        "drinks",
+        "drank",
+        "has drunk"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "They ___ for two hours before the rain stopped.",
+      "options": [
+        "had been walking",
+        "have walked",
+        "walked",
+        "were walking"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "I think it ___ soon.",
+      "options": [
+        "rained",
+        "is raining",
+        "will rain",
+        "rains"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "She ___ to Delhi tomorrow.",
+      "options": [
+        "goes",
+        "going",
+        "will go",
+        "go"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "He ___ a lot of books when he was young.",
+      "options": [
+        "read",
+        "has read",
+        "reads",
+        "reading"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "I ___ this book for three days.",
+      "options": [
+        "am reading",
+        "have been reading",
+        "had read",
+        "read"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "We ___ for you since morning.",
+      "options": [
+        "are waiting",
+        "were waiting",
+        "have been waiting",
+        "wait"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "The train ___ before we reached the station.",
+      "options": [
+        "left",
+        "had left",
+        "leaves",
+        "has left"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "By 8 p.m., they ___ dinner.",
+      "options": [
+        "ate",
+        "eating",
+        "eat",
+        "will have eaten "
+      ],
+      "correct": 3
+    },
+    {
+      "question": "He ___ already finished his homework.",
+      "options": [
+        "have",
+        "has",
+        "is",
+        "was"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "We ___ this place when we were kids.",
+      "options": [
+        "visit",
+        "visited",
+        "visiting",
+        "have visited"
+      ],
+      "correct": 1
+    },
+    {
+      "question": " I___ to London next week.",
+      "options": [
+        "fly",
+        "was flying",
+        "am flying",
+        " have flown"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "The children ___ when the bell rang.",
+      "options": [
+        "were playing",
+        "played",
+        "are playing",
+        "play"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "She ___ her homework already.",
+      "options": [
+        "done",
+        "has done",
+        "did",
+        "doing"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "We ___ the match if we had practiced more.",
+      "options": [
+        "won",
+        "win",
+        "would have won",
+        "will win"
+      ],
+      "correct": 2
+    },
+    {
+      "question": " He said he ___ the letter.",
+      "options": [
+        "writes",
+        "will write",
+        "had written",
+        "is writing"
+      ],
+      "correct": 2
+    },
+    {
+      "question": " She ___ to learn French for a year.",
+      "options": [
+        "is trying",
+        "has been trying",
+        "tries",
+        "try"
+      ],
+      "correct": 1
+    }
+  ]
+}
